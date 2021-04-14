@@ -45,7 +45,7 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
-### Edit README
+### README
 
 Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:
 
